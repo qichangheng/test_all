@@ -1,0 +1,15 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="unittest.Testloader" />
+          <option value="不知道.excel_handler" />
+          <option value="class19_logging封装.logging_handler.read_yaml" />
+          <option value="class17_excel封装.test_login.test_suit" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

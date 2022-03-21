@@ -1,0 +1,18 @@
+info �ȼ�����־
+warning �ȼ�����־
+error �ȼ�����־
+info 等级的日志
+warning 等级的日志
+error 等级的日志
+info 等级的日志
+warning 等级的日志
+error 等级的日志
+2020-05-28 21:55:05,329--demo_02_logging进阶版.py--33--INFO:info 等级的日志
+2020-05-28 21:55:05,329--demo_02_logging进阶版.py--34--WARNING:warning 等级的日志
+2020-05-28 21:55:05,329--demo_02_logging进阶版.py--35--ERROR:error 等级的日志
+2020-05-28 21:56:19,859--demo_02_logging进阶版.py--hanghao:33--INFO:info 等级的日志
+2020-05-28 21:56:19,860--demo_02_logging进阶版.py--hanghao:34--WARNING:warning 等级的日志
+2020-05-28 21:56:19,860--demo_02_logging进阶版.py--hanghao:35--ERROR:error 等级的日志
+2020-05-28 21:57:17,641--demo_02_logging进阶版.py--hanghao:34--INFO:info 等级的日志
+2020-05-28 21:57:17,642--demo_02_logging进阶版.py--hanghao:35--WARNING:warning 等级的日志
+2020-05-28 21:57:17,642--demo_02_logging进阶版.py--hanghao:36--ERROR:error 等级的日志

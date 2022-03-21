@@ -1,0 +1,21 @@
+
+log:
+  name: "python29"
+  file: "python29log.txt"
+  logger_level: "DEBUG"
+  stream_level: "DEBUG"
+  file_level: "INFO"
+
+excel:
+  file: "cases.xlsx"
+
+
+teachers:
+  - yuz
+  - miyi
+  - xiaozhukuaipao
+
+demo:
+  age: 16
+
+

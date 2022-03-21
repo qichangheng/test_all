@@ -1,0 +1,12 @@
+文件的写入操作
+
+方法1，
+f = open("filename.txt", 'w')
+f.write(data)
+f.close()
+
+方法2，
+with open() as f:
+    f.write()
+
+
